@@ -19,6 +19,16 @@ A COVID-19 Tableau dashboard is a dynamic, interactive tool designed to visualiz
    - **Forecasts:** Predictive models projecting future case counts, death tolls, and hospitalizations.
    - **Scenario Analysis:** Impact of different intervention measures (e.g., lockdowns, mask mandates) on the spread of the virus.
 
+
+**Installation**
+**Prerequisites**
+
+Tableau Desktop or Tableau Public installed on your computer.
+**Opening the Dashboard**
+
+Download the Covid-19 dashboard.twbx file from this repository.
+Open the file using Tableau Desktop or Tableau Public.    
+
 ### Interactivity and User Experience
 
 - **Filters and Parameters:** Users can interact with the dashboard by applying filters to view data for specific dates, countries, regions, or demographics.
